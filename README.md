@@ -157,7 +157,7 @@ Structured logs for all services:
 
 ## 📄 License
 
-This project is provided as part of a test assignment.
+This project is provided as a test assignment.
 
 ## 🆘 Support
 
